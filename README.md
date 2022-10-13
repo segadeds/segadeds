@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @segun7
+- 👋 Hi, I’m segun
 - 👀 I’m focusing on Machine Learning and Deep Learning 
-- 🌱 I’m currently learning Recommendation Systems
-- 💞️ I’m looking to collaborate on  CNN, RNN, NLP
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on  CNNs and NLP
 - 📫 How to reach me segunadedipe93@gmail.com
 
 <!---
