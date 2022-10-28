@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Segun
+- 🖥️  See my portfolio at [MyPortfolio](https://www.datascienceportfol.io/segadeds)
 - 👀 I’m focusing on Machine Learning and Deep Learning 
 - 🌱 I’m currently learning Natural Language Processing
 - 💞️ I’m looking to collaborate on  Computer Vision and NLP projects
